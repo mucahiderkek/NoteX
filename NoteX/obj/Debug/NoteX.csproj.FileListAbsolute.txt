@@ -1,0 +1,10 @@
+C:\Users\it.stajyeri2\source\repos\NoteX\NoteX\obj\Debug\NoteX.csproj.AssemblyReference.cache
+C:\Users\it.stajyeri2\source\repos\NoteX\NoteX\obj\Debug\NotDefteri.Form1.resources
+C:\Users\it.stajyeri2\source\repos\NoteX\NoteX\obj\Debug\NoteX.Properties.Resources.resources
+C:\Users\it.stajyeri2\source\repos\NoteX\NoteX\obj\Debug\NoteX.csproj.GenerateResource.cache
+C:\Users\it.stajyeri2\source\repos\NoteX\NoteX\obj\Debug\NoteX.csproj.CoreCompileInputs.cache
+C:\Users\it.stajyeri2\source\repos\NoteX\NoteX\bin\Debug\NoteX.exe.config
+C:\Users\it.stajyeri2\source\repos\NoteX\NoteX\bin\Debug\NoteX.exe
+C:\Users\it.stajyeri2\source\repos\NoteX\NoteX\bin\Debug\NoteX.pdb
+C:\Users\it.stajyeri2\source\repos\NoteX\NoteX\obj\Debug\NoteX.exe
+C:\Users\it.stajyeri2\source\repos\NoteX\NoteX\obj\Debug\NoteX.pdb
