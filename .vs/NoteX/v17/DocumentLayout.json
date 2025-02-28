@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\it.stajyeri2\\source\\repos\\NoteX\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{979B8755-C333-40EE-AE57-82CBBFE10CA2}|NoteX\\NoteX.csproj|c:\\users\\it.stajyeri2\\source\\repos\\notex\\notex\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{979B8755-C333-40EE-AE57-82CBBFE10CA2}|NoteX\\NoteX.csproj|solutionrelative:notex\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{979B8755-C333-40EE-AE57-82CBBFE10CA2}|NoteX\\NoteX.csproj|c:\\users\\it.stajyeri2\\source\\repos\\notex\\notex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{979B8755-C333-40EE-AE57-82CBBFE10CA2}|NoteX\\NoteX.csproj|solutionrelative:notex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{979B8755-C333-40EE-AE57-82CBBFE10CA2}|NoteX\\NoteX.csproj|C:\\Users\\it.stajyeri2\\source\\repos\\NoteX\\notex\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{979B8755-C333-40EE-AE57-82CBBFE10CA2}|NoteX\\NoteX.csproj|solutionrelative:notex\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{979B8755-C333-40EE-AE57-82CBBFE10CA2}|NoteX\\NoteX.csproj|c:\\users\\it.stajyeri2\\source\\repos\\notex\\notex\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{979B8755-C333-40EE-AE57-82CBBFE10CA2}|NoteX\\NoteX.csproj|c:\\users\\it.stajyeri2\\source\\repos\\notex\\notex\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{979B8755-C333-40EE-AE57-82CBBFE10CA2}|NoteX\\NoteX.csproj|solutionrelative:notex\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979B8755-C333-40EE-AE57-82CBBFE10CA2}|NoteX\\NoteX.csproj|C:\\Users\\it.stajyeri2\\source\\repos\\NoteX\\notex\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{979B8755-C333-40EE-AE57-82CBBFE10CA2}|NoteX\\NoteX.csproj|solutionrelative:notex\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979B8755-C333-40EE-AE57-82CBBFE10CA2}|NoteX\\NoteX.csproj|C:\\Users\\it.stajyeri2\\source\\repos\\NoteX\\notex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979B8755-C333-40EE-AE57-82CBBFE10CA2}|NoteX\\NoteX.csproj|solutionrelative:notex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,50 +26,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\it.stajyeri2\\source\\repos\\NoteX\\NoteX\\Program.cs",
               "RelativeDocumentMoniker": "NoteX\\Program.cs",
               "ToolTip": "C:\\Users\\it.stajyeri2\\source\\repos\\NoteX\\NoteX\\Program.cs",
               "RelativeToolTip": "NoteX\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAswBQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T13:54:29.787Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T13:54:29.787Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\it.stajyeri2\\source\\repos\\NoteX\\NoteX\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "NoteX\\Form1.Designer.cs",
               "ToolTip": "C:\\Users\\it.stajyeri2\\source\\repos\\NoteX\\NoteX\\Form1.Designer.cs",
               "RelativeToolTip": "NoteX\\Form1.Designer.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAtwG0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAQwHYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T13:53:28.582Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\it.stajyeri2\\source\\repos\\NoteX\\NoteX\\Form1.cs",
               "RelativeDocumentMoniker": "NoteX\\Form1.cs",
               "ToolTip": "C:\\Users\\it.stajyeri2\\source\\repos\\NoteX\\NoteX\\Form1.cs",
               "RelativeToolTip": "NoteX\\Form1.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAkwDEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAgwDgAAAB1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T11:50:41.352Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\it.stajyeri2\\source\\repos\\NoteX\\NoteX\\Form1.cs",
               "RelativeDocumentMoniker": "NoteX\\Form1.cs",

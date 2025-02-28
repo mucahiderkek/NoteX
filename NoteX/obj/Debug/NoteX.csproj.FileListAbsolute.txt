@@ -8,3 +8,12 @@ C:\Users\it.stajyeri2\source\repos\NoteX\NoteX\bin\Debug\NoteX.exe
 C:\Users\it.stajyeri2\source\repos\NoteX\NoteX\bin\Debug\NoteX.pdb
 C:\Users\it.stajyeri2\source\repos\NoteX\NoteX\obj\Debug\NoteX.exe
 C:\Users\it.stajyeri2\source\repos\NoteX\NoteX\obj\Debug\NoteX.pdb
+C:\Users\it.stajyeri2\source\repos\NoteX\NoteX\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\it.stajyeri2\source\repos\NoteX\NoteX\bin\Debug\itextsharp.dll
+C:\Users\it.stajyeri2\source\repos\NoteX\NoteX\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\it.stajyeri2\source\repos\NoteX\NoteX\bin\Debug\itextsharp.xml
+C:\Users\it.stajyeri2\source\repos\NoteX\NoteX\obj\Debug\NoteX.csproj.Up2Date
+C:\Users\it.stajyeri2\source\repos\NoteX\NoteX\bin\Debug\Hunspellx64.dll
+C:\Users\it.stajyeri2\source\repos\NoteX\NoteX\bin\Debug\Hunspellx86.dll
+C:\Users\it.stajyeri2\source\repos\NoteX\NoteX\bin\Debug\NHunspell.dll
+C:\Users\it.stajyeri2\source\repos\NoteX\NoteX\bin\Debug\NHunspell.pdb
